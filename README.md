@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Singh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://tse1.mm.bing.net/th/id/OIP.1Ibe61TgsBhu7af6WxuFGwHaFj?pid=Api&P=0&h=180"/>
+<img align="right" alt="coding" width="600" src="https://tse1.mm.bing.net/th/id/OIP.1Ibe61TgsBhu7af6WxuFGwHaFj?pid=Api&P=0&h=180"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nikhil998776&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil998776" />
